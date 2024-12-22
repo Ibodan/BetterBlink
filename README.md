@@ -1,5 +1,5 @@
 # BetterBlink
-This plugin project aims to makes blink animation more natural.
+This plugin project aims to make blink animation more natural.
 
 Requires [BepInEx 5.4](https://github.com/BepInEx/BepInEx/releases).
 
