@@ -11,5 +11,6 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)AssemblyInfo.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BetterBlinkPlugin.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ConfigurationManagerAttributes.cs" />
   </ItemGroup>
 </Project>
